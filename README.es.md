@@ -114,7 +114,7 @@ para proveer de una línea de comandos similar a las de las distribuciones Linux
 [Linked Data Relationships and Data Models](https://github.com/FIWARE/tutorials.Relationships-Linked-Data)<br/>
 &nbsp; 603. [Traversing Linked Data Programmatically](https://github.com/FIWARE/tutorials.Accessing-Linked-Data)<br/>
 
-## Usage
+## Uso
 
 La mayoria de los tutoriales tiene un script llamado `services` para iniciar los contenedores:
 
